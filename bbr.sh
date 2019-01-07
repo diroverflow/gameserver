@@ -272,7 +272,6 @@ reboot_os() {
     echo
     echo -e "${green}Info:${plain} The system needs to reboot."
     reboot
-    fi
 }
 
 install_bbr() {
